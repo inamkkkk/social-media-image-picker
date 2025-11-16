@@ -1,0 +1,33 @@
+### Flutter ###
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.metadata
+build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+
+### Dart ###
+*.dart.snapshot
+*.vm_service_info
+*.packages
+
+### Android Studio ###
+.gradle/
+/local.properties
+/.idea/caches/
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/shelf/
+/out/
+
+### VSCode ###
+.vscode/
+
+### General ###
+*.DS_Store
+*~
+*.log
+*.swp
+*.tmp
+
